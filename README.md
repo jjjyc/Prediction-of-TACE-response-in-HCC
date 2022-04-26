@@ -13,3 +13,6 @@ There are the best models we have trained for the 2 models in 'models.zip'.
 
 # Enviroment 
 Use anaconda3 to run "conda env create -f ./conda_env.yml".
+
+# Data 
+Because of the patients' privacy and licence，the whole dataset is not permitted to upload now. Example data will be upgraded soon.
